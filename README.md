@@ -1,6 +1,6 @@
 ### Hi there 👋, Tshepang Mahlangu
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/TshepangV/TshepangV/blob/main/me.png))
 
 I`m Tshepang Mahlangu from South Africa, and I do web development. I really love learning new things and new things excite me. I love java, Python, SQL, HTML and CSS.
 
