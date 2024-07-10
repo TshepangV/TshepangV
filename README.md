@@ -7,13 +7,18 @@ I`m Tshepang Mahlangu from South Africa, and I do web development. I really love
 
 ### Hi there 👋, Tshepang Mahlangu
 #### Web Developer
-![Web Developer](https://files.fm/u/n2wfmn87gv)
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I`m Tshepang Mahlangu from South Africa, and I do web development. I really love learning new things and new things excite me. I love java, Python, SQL, HTML and CSS.
 
-Skills: JAVA/PYTHON / JS / HTML / CSS
+Skills: JAVA/PYTHON // JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
