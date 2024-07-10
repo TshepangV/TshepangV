@@ -6,7 +6,14 @@ I`m Tshepang Mahlangu from South Africa, and I do web development. I really love
 
 Skills: JAVA/PYTHON // JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on HM Power Student Accommodation Website 
+- 🌱 I’m currently learning JAVA and Python 
+- 📫 How to reach me: vmahlangupop@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TshepangV)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tshepang-mahlangu-450a841a2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCbIwICzqKhf6AtR_ohMl4TA)  
+
+
 
 
 
